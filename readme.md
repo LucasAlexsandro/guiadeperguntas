@@ -1,6 +1,8 @@
 <br />
 <p align="center">
     <img src="preview.png" alt="" width="960">
+    <img src="preview2.png" alt="" width="960">
+    <img src="preview3.png" alt="" width="960">
 
   <h3 align="center">Guia de Perguntas</h3>
  <br />
